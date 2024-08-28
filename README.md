@@ -7,4 +7,4 @@ To use the project properly, please follow up with the steps below:
 2. Build the project in Android Studio.
 3. Start the App and you need to click the upper-right icon to scan the QRCode generated from the
    server end to connect the LAN server monitor (port 8000 by default).
-4. Start to check you idea on the codebase.
+4. Start to check your idea on the codebase.
